@@ -11,6 +11,10 @@ The Billing System Program is designed to automate the process of creating, mana
 ```bash
   admin
   ```
+## future development 
+- customer name effect in bill generation and billing history
+- discount effect in bill generation and billing history
+- addition of making capable of handling errors
 ## Installation
 To install and run the Python Billing System on a Linux system, follow these steps:
 
