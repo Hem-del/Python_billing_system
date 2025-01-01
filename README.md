@@ -7,7 +7,10 @@ The Billing System Program is designed to automate the process of creating, mana
 - Select items for billing
 - Calculate taxes (CGST and SGST)
 - Generate detailed bills with accurate calculations
-
+- admin dashboard default user id and password
+```bash
+  admin
+  ```
 ## Installation
 To install and run the Python Billing System on a Linux system, follow these steps:
 
