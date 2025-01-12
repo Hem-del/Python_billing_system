@@ -46,7 +46,7 @@ To use the Billing System, follow these steps:
 
 2. **Run the main script:**
     ```bash
-    python3 main.py
+    python3 master.py
     ```
 
 Follow the on-screen instructions to select items, calculate taxes, and generate bills.
